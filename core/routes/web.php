@@ -5,7 +5,9 @@ use App\Http\Controllers\HomeController;
 use App\Http\Controllers\LanguageController;
 use App\Http\Controllers\SiteMapController;
 use Illuminate\Support\Facades\Route;
-
+// jb network
+// jb network
+// jb network
 /*
 |--------------------------------------------------------------------------
 | Web Routes
